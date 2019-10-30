@@ -21,7 +21,7 @@
     "jade": "~1.11.0",
     "morgan": "~1.9.1",
     "if-env": "1.0.4",
-    "sequelize": "^5.8.9",
+    "sequelize": "^5.15.1",
     "sequelize-cli": "^5.5.0"
   },
   "devDependencies": {
